@@ -222,6 +222,10 @@ nav ul {
     .open nav a { opacity: 1; }
 }
 
+@media only screen and (min-width: 46em) {
+    .container { padding-inline: clamp(1.5rem, 20vw - 8rem, 5rem); }
+}
+
 @media only screen and (min-width: 80em) {
     .container { padding-inline: calc(50% - 34.75rem); }
 }
@@ -295,7 +299,7 @@ nav ul {
     .cta::before {
         content: '';
         width: 10rem;
-        left: 3rem;
+        left: 2.5rem;
         height: 1px;
         background: var(--clr-white);
     }
@@ -323,7 +327,10 @@ nav ul {
         position: absolute;
         top: 0; right: 0;
     }
-}
+
+    .cta { padding-left: 2rem; }
+
+    .cta::before { left: 2rem; }
 
 /* ------------------------------------------------------ */
 /*                      Perks Section                     */
