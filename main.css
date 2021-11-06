@@ -331,6 +331,7 @@ nav ul {
     .cta { padding-left: 2rem; }
 
     .cta::before { left: 2rem; }
+}
 
 /* ------------------------------------------------------ */
 /*                      Perks Section                     */
