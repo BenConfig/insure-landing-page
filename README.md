@@ -73,7 +73,7 @@ Other than the mobile menu, the most difficult part of this challenge was situat
 
 ## Continued development
 
-This was my most successful attempt at a mobile menu so far but I want to keep practising as it a common feature of websites. I want to try using Bootstrap again. I had problems setting up Bootstrap so I want to try and figure them out.
+This was my most successful attempt at a mobile menu so far but I want to keep practising as it is a common feature of websites. I want to try using Bootstrap again. I had problems setting up Bootstrap so I want to try and figure them out.
 
 ## Useful resources
 
