@@ -237,6 +237,7 @@ nav ul {
 
 .img-desktop {
     width: 100%;
+    min-width: 10rem;
     max-height: 28.1875rem;
     object-fit: cover;
 }
